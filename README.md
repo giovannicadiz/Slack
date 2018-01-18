@@ -21,4 +21,8 @@ SLACK_TOKEN = 'my_token'
 channel="#my_channel",
 ``` 
 
+* Official documentation
+
+  [http://slackapi.github.io/python-slackclient/](http://slackapi.github.io/python-slackclient/)
+
 
