@@ -24,5 +24,10 @@ channel="#my_channel",
 * Official documentation
 
   [http://slackapi.github.io/python-slackclient/](http://slackapi.github.io/python-slackclient/)
+  
+  
+* Create APP 
+
+  [https://api.slack.com/slack-apps](https://api.slack.com/slack-apps)
 
 
